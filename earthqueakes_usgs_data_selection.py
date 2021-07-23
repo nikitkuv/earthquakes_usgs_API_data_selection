@@ -5,7 +5,7 @@ import pandas as pd
 url = 'https://earthquake.usgs.gov/fdsnws/event/1/query?'
 
 # setting input parameters for earthquake selection
-print('Imput required information for your selection: ')
+print('Input required information for your selection: ')
 
 start_time = input('Start time (YYYY-MM-DD): ')
 end_time = input('End time (YYYY-MM-DD): ')
