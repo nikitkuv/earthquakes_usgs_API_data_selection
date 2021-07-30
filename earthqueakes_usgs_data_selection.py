@@ -79,7 +79,7 @@ while empty:
                         )
                         print('')
                     else:
-                        print('Number of found earthquakes is smaller than inputed position. Please type smaller position.')
+                        print('Number of found earthquakes is smaller than input position. Please type smaller position.')
                         print('')
             empty = False
         else:
